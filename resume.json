@@ -91,11 +91,10 @@
   "education": [
     {
       "institution": "Red River College",
-      "area": "Information Technology",
+      "area": "Business Information Technology",
       "studyType": "Bachelor",
       "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "endDate": "2014-02-04",
       "courses": []
     }
   ],
