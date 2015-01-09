@@ -6,7 +6,7 @@
     "email": "florida.elago@gmail.com",
     "phone": "(604) 362-7768",
     "website": "http://floridaelago.com",
-    "summary": "Florida Florida Florida",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -32,7 +32,7 @@
       "company": "Shopify",
       "position": "Software Developer Intern",
       "website": "http://shopify.com",
-      "startDate": "2013-1-01",
+      "startDate": "2013-01-01",
       "endDate": "2013-08-29",
       "summary": "Shopify is a fully managed commerce platform that allows merchants to sell products online and in retail with point-of-sale",
       "highlights": [
@@ -61,7 +61,6 @@
       "position": "Software Developer",
       "website": "http://socialchorus.com",
       "startDate": "2014-11-09",
-      "endDate": "",
       "summary": "SocialChorus is an Enterprise Advocate Marketing solution enables employees and brand ambassadors to consume, share and create branded content, generating awareness, engagement and sales for brands.",
       "highlights": []
     },
@@ -70,7 +69,6 @@
       "position": "Web Development Teacher Assistant",
       "website": "lighthouselabs.ca/",
       "startDate": "2014-09-02",
-      "endDate": "",
       "summary": "Lighthouse Labs is a developer bootcamp that offers full-time Web Development and iOS programs.",
       "highlights": [
         "Guided students on how to approach the problems that they're trying to solve.",
@@ -84,7 +82,6 @@
       "position": "Instructor/Mentor",
       "website": "ladieslearningcode.com",
       "startDate": "2014-05-01",
-      "endDate": "",
       "summary": "Ladies Learning Codes is a non-for-profit organization that provides workshops for everyone who wants to learn how to code.",
       "highlights": [
         "Instructed Intro to JavaScript workshop in Vancouver"
