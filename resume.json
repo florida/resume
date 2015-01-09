@@ -46,65 +46,60 @@
       "position": "Software Developer",
       "website": "http://contractual.ly",
       "startDate": "2014-03-24",
-      "endDate": "2014-10-30",
+      "endDate": "2014-10-28",
       "summary": "Contractually is a contract management solution that provides a quick and easy way to manage and automate the entire contract process online.",
       "highlights": [
-        "Maintained existing application written in Rails and AngularJS.",
-        "Implemented one to many private message threads in contract.",
-        "Used Service Objects to refactor and break down logic in complex tasks to improve code cleanliness and readability.",
-        "Added ability to customize messages in all the email templates.",
-        "Implemented front-end code to give ability to administrators to customize member's contract permissions."
+        "Maintained existing application written in Rails and AngularJS",
+        "Implemented one to many private message threads in contract ",
+        "Used Service Objects to refactor and break down logic in complex tasks to improve code cleanliness and readability",
+        "Implemented customized email templates",
+        "Implemented the front-end for customizable  "
       ]
     },
     {
       "company": "SocialChorus",
       "position": "Software Developer",
       "website": "http://socialchorus.com",
-      "startDate": "2014-11-9",
-      "endDate": "",
-      "summary": "SocialChorus is an enterprise advocate marketing solution. It enables employees and brand ambassadors to consume, share and create branded content, generating awareness, engagement and sales for brands.",
-      "highlights": [
-        ""
-      ]
+      "startDate": "2014-11-09",
+      "endDate": "Present",
+      "summary": "SocialChorus is an Enterprise Advocate Marketing solution enables employees and brand ambassadors to consume, share and create branded content, generating awareness, engagement and sales for brands.",
+      "highlights": []
     },
     {
       "company": "Lighthouse Labs",
       "position": "Web Development Teacher Assistant",
-      "website": "https://www.lighthouselabs.ca/",
+      "website": "lighthouselabs.ca/",
       "startDate": "2014-09-02",
-      "endDate": "",
-      "summary": "Lighthouse Labs is a developer bootcamp that offers Web Development and iOS programs.",
+      "endDate": "Present",
+      "summary": "Lighthouse Labs is a developer bootcamp that offers full-time Web Development and iOS programs.",
       "highlights": [
-        "Guiding students on how to approach the problems that they're trying to solve.",
-        "Gave code reviews to students and offered advice on how to improve their code."
+        "Guided students on how to approach the problems that they're trying to solve.",
+        "Provided code reviews and advice to improve code quality."
       ]
     }
   ],
   "volunteer": [
     {
       "organization": "Ladies Learning Code",
-      "position": "Mentor/Instructor",
-      "website": "http://ladieslearningcode.com/",
+      "position": "Instructor/Mentor",
+      "website": "ladieslearningcode.com",
       "startDate": "2014-05-01",
-      "endDate": "",
-      "summary": "Ladies Learning Code is a non-for-profit organization that provides workshops  for everyone who wants to learn how to code",
+      "endDate": "Present",
+      "summary": "Ladies Learning Codes is a non-for-profit organization that provides workshops for everyone who wants to learn how to code.",
       "highlights": [
-        "Instructed LLC Intro To JavaScript course"
+        "Instructed Intro to JavaScript workshop in Vancouver"
       ]
     }
   ],
   "education": [
     {
       "institution": "Red River College",
-      "area": "Business Information Technology",
-      "studyType": "Diploma",
-      "startDate": "2011-09-02",
-      "endDate": "2014-02-04",
-      "gpa": "",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "4.0",
+      "courses": []
     }
   ],
   "awards": [],
@@ -112,20 +107,34 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
+      "level": "",
       "keywords": [
         "HTML",
+        "Javascript",
         "CSS",
-        "Javascript"
+        "Ruby",
+        "Ruby on Rails",
+        "MySQL",
+        "Redis",
+        "PostgeSQL",
+        "BackboneJS",
+        "AngularJS",
+        "jQuery",
+        "TDD",
+        "Less",
+        "SASS",
+        "CoffeeScript",
+        "Cucumber",
+        "Rspec",
+        "Jasmine",
+        "NodeJS",
+        "Android",
+        "Ngnix",
+        "git"
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": []
 }
